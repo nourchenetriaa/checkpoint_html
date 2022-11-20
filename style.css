@@ -1,0 +1,45 @@
+header { background-color: aquamarine;
+
+
+
+}
+.c1 {
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.c2 {
+  color:blueviolet;
+
+}
+nav{
+   
+}
+img {
+    display: block;
+    width: 30%;
+    margin: auto;
+  }
+.p1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+.p2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: larger;
+font-weight: bold;
+font-style: italic;
+}
+.p6{
+text-align: right;
+
+}
+table {
+border: 3px;
+border-collapse: collapse;
+
+}

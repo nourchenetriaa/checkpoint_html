@@ -43,3 +43,13 @@ border: 3px;
 border-collapse: collapse;
 
 }
+footer{
+    background-color: aquamarine;
+}
+.b1 {
+    text-align: right;
+    font-weight: bold;
+    font-family: Verdana;
+    font-style: italic;
+  font-size: 20px;
+}

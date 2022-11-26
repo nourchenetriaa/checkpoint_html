@@ -1,0 +1,73 @@
+body {
+    font-family:"trebuchet ms",sans-serif;
+    
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(249, 243, 250);
+    }
+    
+   form {
+   
+    padding:10px;
+    width:500px;
+  
+    margin-left: -900px; 
+    position: absolute;
+    left: 60%;
+
+display: flex;
+    }
+
+   fieldset {
+    padding:60px ;
+    height: 600px;
+    width: 200px;
+    margin-bottom:10px;
+    border:5px solid  rgb(185, 160, 160);
+    background-color: rgb(241, 224, 242);
+    }
+   legend {
+    color: rgb(185, 160, 160);
+    font-weight:bold;
+    font-size:50px;
+    background-color: #FFF3F3;
+    text-shadow: rgb(232, 203, 234);
+    }
+   label {
+    margin-top:10px;
+    display:block;
+    }
+   
+   input, textarea, select, option {
+    background-color:#FFF3F3;
+    }
+   input, textarea, select {
+    padding:3px;
+    border:2px solid #F5C5C5;
+    border-radius:5px;
+    width:300px;
+    box-shadow:1px 1px 2px #C0C0C0 inset;
+    height: 30px;
+    }
+   select {
+    margin-top:10px;
+    }
+   input[type=radio] {
+    background-color:transparent;
+    border:none;
+    width:10px;
+    }
+   input[type=submit], input[type=reset] {
+    width:100px;
+    margin-left:5px;
+    box-shadow:1px 1px 1px #D83F3D;
+  
+        border-bottom-color: plum;
+        background-color: plum;
+        text-align: center;
+        box-shadow: 0 8px 16px 0 rgba(161, 82, 82, 0.2), 0 6px 20px 0 rgba(195, 28, 28, 0.19);
+        font-size: 16px;
+
+    cursor:pointer;
+    }
+    
